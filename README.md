@@ -1,5 +1,5 @@
 # FMP_CC-CSP
-Reposetori for a final master project of Pau Carabí. 
+Reposetori for the final master project of Pau Carabí. 
 
 Here are presnted the 3 main scripts programmed by the student. The pipe line would be:
 - Run VEP over the ClinVar data.
