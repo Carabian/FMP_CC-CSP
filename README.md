@@ -9,4 +9,4 @@ Here are presnted the 3 main scripts programmed by the student. The pipe line wo
 
 Graphs created during the gird search found in ROC_curve, loss_graph and confusion_matrix folders.
 
-As well a file with the system specifications used is provided:  system_specs.txt, and a .yml file to reproduce the virtual environment used to create the essay (torch.env.yml)
+As well a file with the system specifications used is provided:  system_specs.txt, and a .yml file to reproduce the virtual environment used to create the essay (torch_env.yml)
