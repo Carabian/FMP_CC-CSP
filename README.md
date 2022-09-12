@@ -1,4 +1,4 @@
-# FMP_CC-CSP
+# CV-CSP
 Reposetori for the final master project of Pau Carabí. 
 
 Here are presnted the 3 main scripts programmed by the student. The pipe line would be:
